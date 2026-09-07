@@ -1,0 +1,29 @@
+{
+  "name": "Horizon Graphic Studio",
+  "short_name": "Horizon Studio",
+  "description": "Ultra-premium graphic design agency in Varanasi, India. Brand identity, luxury packaging, 3D CGI, and digital experiences. A Smart Vista IT Solutions Company.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070d18",
+  "theme_color": "#070d18",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["business", "design", "graphics"],
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
