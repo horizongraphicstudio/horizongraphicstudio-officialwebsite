@@ -143,7 +143,7 @@ export default function ContactSection() {
                 <div>
                   <p className="text-sm font-bold text-foreground">Varanasi Studio HQ</p>
                   <p className="text-xs text-muted-foreground mt-0.5 leading-relaxed">
-                    Smart Vista IT Solutions, Horizon Graphic Studio, Varanasi, Uttar Pradesh 221001, India
+                    Maqbool Alam Road Varanasi, UP 221002 India
                   </p>
                 </div>
               </div>
@@ -155,10 +155,7 @@ export default function ContactSection() {
                 <div>
                   <p className="text-sm font-bold text-foreground">Email Inquiries</p>
                   <p className="text-xs text-muted-foreground font-mono mt-0.5">
-                    hello@horizongraphic.studio
-                  </p>
-                  <p className="text-xs text-muted-foreground font-mono">
-                    contact@smartvistait.com
+                    customersupport@svsta.in
                   </p>
                 </div>
               </div>
@@ -170,7 +167,7 @@ export default function ContactSection() {
                 <div>
                   <p className="text-sm font-bold text-foreground">Executive Telephone</p>
                   <p className="text-xs text-muted-foreground font-mono mt-0.5">
-                    +91 94500 00000 / +91 542 2220000
+                    +91-7518077446
                   </p>
                 </div>
               </div>
@@ -344,3 +341,4 @@ export default function ContactSection() {
     </section>
   );
 }
+
