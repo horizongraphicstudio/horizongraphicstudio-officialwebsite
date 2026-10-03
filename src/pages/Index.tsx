@@ -1,5 +1,6 @@
 import Navbar from "@/components/Navbar";
 import HeroSection from "@/components/HeroSection";
+import OfficeCarousel from "@/components/OfficeCarousel";
 import ClientMarquee from "@/components/ClientMarquee";
 import BentoGridSection from "@/components/BentoGridSection";
 import ServicesSection from "@/components/ServicesSection";
@@ -17,6 +18,7 @@ const Index = () => {
     <div className="min-h-screen bg-background text-foreground selection:bg-primary selection:text-white relative">
       <Navbar />
       <HeroSection />
+      <OfficeCarousel />
       <ClientMarquee />
       <BentoGridSection />
       <ServicesSection />
