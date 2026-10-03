@@ -4,6 +4,7 @@ import OfficeCarousel from "@/components/OfficeCarousel";
 import ClientMarquee from "@/components/ClientMarquee";
 import BentoGridSection from "@/components/BentoGridSection";
 import ServicesSection from "@/components/ServicesSection";
+import ServiceShowcase from "@/components/ServiceShowcase";
 import PortfolioSection from "@/components/PortfolioSection";
 import PinterestMasonrySection from "@/components/PinterestMasonrySection";
 import ProjectEstimator from "@/components/ProjectEstimator";
@@ -22,6 +23,7 @@ const Index = () => {
       <ClientMarquee />
       <BentoGridSection />
       <ServicesSection />
+      <ServiceShowcase />
       <PortfolioSection />
       <div id="pinterest">
         <PinterestMasonrySection />
