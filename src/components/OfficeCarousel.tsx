@@ -4,7 +4,7 @@ import { MapPin, Phone, Mail, Globe2, Clock, Building2, ChevronLeft, ChevronRigh
 
 const slides = [
   {
-    image: "/Images/Carousel-Images (1).png",
+    image: "/Images/Carousel-Images (2).png",
     office: "India",
     title: "Varanasi Studio HQ",
     subtitle: "Our Creative Headquarters",
@@ -18,7 +18,7 @@ const slides = [
     tagline: "Where Heritage Meets Innovation",
   },
   {
-    image: "/Images/Carousel-Images (2).png",
+    image: "/Images/Carousel-Images (1).png",
     office: "United Kingdom",
     title: "London Design Bureau",
     subtitle: "European Operations Hub",
@@ -263,3 +263,5 @@ export default function OfficeCarousel() {
     </section>
   );
 }
+
+
