@@ -155,7 +155,7 @@ export default function ContactSection() {
                 <div>
                   <p className="text-sm font-bold text-foreground">Email Inquiries</p>
                   <p className="text-xs text-muted-foreground font-mono mt-0.5">
-                    customersupport@svsta.in
+                    hello@horizongraphicstudio.co.in
                   </p>
                 </div>
               </div>
@@ -341,4 +341,5 @@ export default function ContactSection() {
     </section>
   );
 }
+
 

@@ -10,7 +10,7 @@ const slides = [
     subtitle: "Our Creative Headquarters",
     address: "Maqbool Alam Road, Varanasi, Uttar Pradesh 221002, India",
     phone: "+91-7518077446",
-    email: "customersupport@svsta.in",
+    email: "hello@horizongraphicstudio.co.in",
     hours: "Mon - Sat: 9:30 AM - 7:30 PM IST",
     description:
       "Rooted in the artistic soul of Varanasi \u2014 where centuries of craftsmanship meet cutting-edge digital design. Our India HQ is the creative nerve center powering brand identities, packaging systems, and digital flagships for clients worldwide.",
@@ -24,7 +24,7 @@ const slides = [
     subtitle: "European Operations Hub",
     address: "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ, UK",
     phone: "+44-20-7946-0958",
-    email: "uk@smartvistaitsolutions.in",
+    email: "hello@horizongraphicstudio.co.uk",
     hours: "Mon - Fri: 9:00 AM - 6:00 PM GMT",
     description:
       "Our London bureau serves as the gateway to European and global enterprise clients. From luxury brand consulting to large-scale digital transformation, we bring Indian craftsmanship to the world's most demanding markets.",
@@ -263,5 +263,6 @@ export default function OfficeCarousel() {
     </section>
   );
 }
+
 
 
