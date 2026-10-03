@@ -226,7 +226,7 @@ export default function OfficeCarousel() {
                       </div>
                       <div>
                         <p className="text-xs font-bold text-white/80 uppercase tracking-wider">Email</p>
-                        <p className="text-sm text-white/50 mt-0.5 font-mono">{slide.email}</p>
+                        <p className="text-sm text-white/50 mt-0.5 font-mono break-all">{slide.email}</p>
                       </div>
                     </div>
                   </div>
@@ -263,6 +263,7 @@ export default function OfficeCarousel() {
     </section>
   );
 }
+
 
 
 

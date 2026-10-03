@@ -154,7 +154,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <p className="text-sm font-bold text-foreground">Email Inquiries</p>
-                  <p className="text-xs text-muted-foreground font-mono mt-0.5">
+                  <p className="text-xs text-muted-foreground font-mono mt-0.5 break-all">
                     hello@horizongraphicstudio.co.in
                   </p>
                 </div>
@@ -166,7 +166,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <p className="text-sm font-bold text-foreground">Executive Telephone</p>
-                  <p className="text-xs text-muted-foreground font-mono mt-0.5">
+                  <p className="text-xs text-muted-foreground font-mono mt-0.5 break-all">
                     +91-7518077446
                   </p>
                 </div>
@@ -341,5 +341,6 @@ export default function ContactSection() {
     </section>
   );
 }
+
 
 
